@@ -7,4 +7,4 @@ Simple movie searching service utilizing the [Open Movie Database RESTful API](h
 - OMDB API key
 
 ## Credits
-- [https://github.com/webprogrammingunpas](@webprogrammingunpas)
+- [@webprogrammingunpas](https://github.com/webprogrammingunpas)
