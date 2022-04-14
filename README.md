@@ -1,2 +1,7 @@
 # moviesearch-omdb
  
+Simple movie searching service utilizing the [Open Movie Database RESTful API](https://omdbapi.com/). The whole thing is built from the ground-up following [this very tutorial](https://www.youtube.com/watch?v=TvOFqREy7A8) in attempt to familiarize myself with using public APIs, with small changes and knick-knacks for my liking.
+
+## Pre-requisites
+- XAMPP Local Server
+- OMDB API key
