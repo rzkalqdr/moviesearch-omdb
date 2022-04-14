@@ -5,3 +5,6 @@ Simple movie searching service utilizing the [Open Movie Database RESTful API](h
 ## Pre-requisites
 - XAMPP Local Server
 - OMDB API key
+
+## Credits
+@webprogrammingunpas
